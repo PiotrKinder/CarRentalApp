@@ -1,0 +1,107 @@
+{
+    "pl": {
+      "language": "Polski",
+      "languageCode": "pl",
+      "menuItems": [
+        {
+          "text": "Strona Główna",
+          "description": "Przejdź do strony głównej."
+        },
+        {
+          "text": "Samochody",
+          "description": "Zobacz jakie samochody mamy w swojej ofercie."
+        },
+        {
+          "text": "Regulamin",
+          "description": "Zapoznaj się z zasadami naszej wypożyczalni."
+        },
+        {
+          "text": "Portfolio",
+          "description": "Przeglądaj nasze realizacje."
+        },
+        {
+          "text": "O Nas",
+          "description": "Dowiedz się więcej o naszej firmie."
+        }
+      ]
+    },
+    "en": {
+      "language": "English",
+      "languageCode": "en",
+      "menuItems": [
+        {
+          "text": "Home",
+          "description": "Go to the homepage."
+        },
+        {
+          "text": "Cars",
+          "description": "See what cars we have in our offer."
+        },
+        {
+          "text": "Terms and Conditions",
+          "description": "Familiarize yourself with the rules of our rental."
+        },
+        {
+          "text": "Portfolio",
+          "description": "Browse through our projects."
+        },
+        {
+          "text": "About Us",
+          "description": "Learn more about our company."
+        }
+      ]
+    },
+    "de": {
+      "language": "Deutsch",
+      "languageCode": "de",
+      "menuItems": [
+        {
+          "text": "Startseite",
+          "description": "Zur Startseite gehen."
+        },
+        {
+          "text": "Autos",
+          "description": "Sehen Sie, welche Autos wir in unserem Angebot haben."
+        },
+        {
+          "text": "Geschäftsbedingungen",
+          "description": "Machen Sie sich mit den Regeln unserer Vermietung vertraut."
+        },
+        {
+          "text": "Portfolio",
+          "description": "Durchstöbern Sie unsere Projekte."
+        },
+        {
+          "text": "Über Uns",
+          "description": "Erfahren Sie mehr über unser Unternehmen."
+        }
+      ]
+    },
+    "no": {
+      "language": "Norsk",
+      "languageCode": "no",
+      "menuItems": [
+        {
+          "text": "Hjem",
+          "description": "Gå til startsiden."
+        },
+        {
+          "text": "Biler",
+          "description": "Se hvilke biler vi har i tilbudet vårt."
+        },
+        {
+          "text": "Vilkår og betingelser",
+          "description": "Bli kjent med reglene for utleie."
+        },
+        {
+          "text": "Portefølje",
+          "description": "Bla gjennom prosjektene våre."
+        },
+        {
+          "text": "Om Oss",
+          "description": "Lær mer om selskapet vårt."
+        }
+      ]
+    }
+  }
+  
