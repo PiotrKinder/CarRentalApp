@@ -4,17 +4,18 @@ import text from "./MenuLanguagePack.json";
 import Dropdown from "../dropdown/Dropdown";
 
 const Menu = () => {
-  const languageList: { language: string; languageCode: string }[] =
-    Object.keys(text).map((lang) => {
+  const languageList: { desc: string; val: string }[] = Object.keys(text).map(
+    (lang) => {
       return {
         desc: text[lang].language,
         val: text[lang].languageCode,
       };
-    });
+    }
+  );
 
   const [menuItems, setMenuItems] = useState(text.pl.menuItems);
 
-  const setLanguageHandler = (selectedValue) => {
+  const setLanguageHandler = (selectedValue: string | number) => {
     setMenuItems(text[selectedValue].menuItems);
   };
   return (
